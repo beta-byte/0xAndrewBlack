@@ -48,6 +48,9 @@ My name is Andrew Black and I am a web developer, designer and also a producer f
 - I am open for collaborations (musicly as well), so if you find my work interesting feel free to send me a message! Here is where you can find me:
 
 <p>
+  <a href="javasript:void(0);">
+    <img alt="Discord" src="https://img.shields.io/badge/Lemon%238748-7289DA?logo=discord&logoColor=white&style=for-the-badge" />
+  </a>
   <a href="https://twitter.com/thereal0xandrew">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
