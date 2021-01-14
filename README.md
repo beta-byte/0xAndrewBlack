@@ -19,8 +19,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=0xAndrewBlack.0xAndrewBlack)
 
-<br />
-
 My name is Andrew Black and I am a web developer, designer and also a producer from Szeged, Hungary. I do a lot of things, and some of them you may even find interesting.
 
 ---
@@ -58,9 +56,3 @@ My name is Andrew Black and I am a web developer, designer and also a producer f
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
 </p>
-
----
-
-### 📈 Github Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xAndrewBlack&count_private=true&theme=graywhite&icon_color=F3EE53&show_icons=true" />
