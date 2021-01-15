@@ -26,6 +26,7 @@ My name is Andrew Black and I am a web developer, designer and also a producer f
 ### 🤔 What do I do?
 
 <p>
+  <img alt="Unity" src="https://img.shields.io/badge/UNITY-000000?logo=unity&logoColor=white&style=for-the-badge" />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt="nodeJS" src="https://img.shields.io/badge/NODE-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
