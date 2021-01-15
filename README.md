@@ -1,23 +1,6 @@
-<img src="./0xAndrewBlack_LOGO_HEADER.png" alt="banner" />
+<img src="./assets/resources/0xAndrewBlack_LOGO_HEADER.png" draggable="false" alt="banner" />
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Andrew, aka. 🍋 Lemon
-
-<p>
-    <a href="https://discord.gg/wa7qEPb">
-      <img align="left" alt="LAIDBACK's Discord" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-    </a>
-    <a href="https://twitter.com/0xAndrewBlack">
-      <img align="left" alt="0xAndrewBlack | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-    </a>
-    <a href="https://twitch.tv/0xandrew/">
-      <img align="left" alt="0xAndrewBlack's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
-    </a>
-    <a href="https://instagram.com/thereal0xandrew/">
-      <img align="left" alt="0xAndrewBlack's Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-    </a>
-</p>
-
-![](https://visitor-badge.glitch.me/badge?page_id=0xAndrewBlack.0xAndrewBlack)
 
 My name is Andrew Black and I am a web developer, designer and also a producer from Szeged, Hungary. I do a lot of things, and some of them you may even find interesting.
 
@@ -25,35 +8,65 @@ My name is Andrew Black and I am a web developer, designer and also a producer f
 
 ### 🤔 What do I do?
 
-<p>
-  <img alt="Unity" src="https://img.shields.io/badge/UNITY-000000?logo=unity&logoColor=white&style=for-the-badge" />
-  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
-  <img alt="nodeJS" src="https://img.shields.io/badge/NODE-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+<p align="left">
+  <img alt="Unity" src="./assets/resources/icons/langs/Unity.svg" draggable="false" alt="Unity Icon"/>
+  <img alt="C Sharp" src="./assets/resources/icons/langs/Csharp.svg" draggable="false" alt="Csharp Icon" />
+  <img alt="nodeJS" src="./assets/resources/icons/langs/nodeJS.svg" draggable="false" alt="nodeJS Icon" />
+  <img alt="React" src="./assets/resources/icons/langs/ReactJS.svg" draggable="false" alt="ReactJS Icon" />
+  <img alt="HTML" src="./assets/resources/icons/langs/HTML5.svg" draggable="false" alt="HTML5 Icon" />
+  <img alt="Css" src="./assets/resources/icons/langs/CSS3.svg" draggable="false" alt="CSS3 Icon" />
+  <img alt="JavaScript" src="./assets/resources/icons/langs/ES6.svg" draggable="false" alt="JS Icon" />
 </p>
 
 - I’m currently (and constantly) working on my personal projects, which are tools and websites.
 - I'm working on several React projects with my favourite website Netlify.
-- I also make logo design and every kind of designs, so if you need a good logo just hmu.
+- I also make logo design and every kind of designs, so if you need a good logo just hmu
 - In my hobby im making music and instrumentals.
 
 ---
 
 ### ✉️ Send me a message!
 
-- I am open for collaborations (musicly as well), so if you find my work interesting feel free to send me a message! Here is where you can find me:
+- I am open for collaborations (musicly as well), so if you find my work interesting feel free to send me a message! <br/> Here is where you can find me:
 
-<p>
+<p align="left">
   <a href="javasript:void(0);">
-    <img alt="Discord" src="https://img.shields.io/badge/Lemon%238748-7289DA?logo=discord&logoColor=white&style=for-the-badge" />
+    <img alt="Discord" src="./assets/resources/icons/socials/LemonDiscordTag.svg" draggable="false" alt="Discord" />
   </a>
   <a href="https://twitter.com/thereal0xandrew">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+    <img alt="Twitter" src="./assets/resources/icons/socials/LemonTwitter.svg" draggable="false" alt="Twitter" />
   </a>
   <a href="https://www.instagram.com/thereal0xandrew/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+    <img alt="Instagram" src="./assets/resources/icons/socials/LemonInstagram.svg" draggable="false" alt="Instagram" />
   </a>
 </p>
+
+<hr>
+
+<p align="center">
+    <i>Let's connect, you can contact me via ...</i>
+    <br/><br/>
+    <a href="https://discord.gg/wa7qEPb" width="500px">
+      <img alt="LAIDBACK's Discord" width="32px" src="./assets/resources/icons/socials/discord.svg" draggable="false" alt="Discord Server" />
+    </a>
+    &nbsp;
+    <a href="https://instagram.com/thereal0xandrew/">
+      <img alt="0xAndrewBlack's Instagram" width="32px" src="./assets/resources/icons/socials/instagram.svg" draggable="false" alt="Instagram" />
+    </a>
+    &nbsp;
+    <a href="https://twitter.com/0xAndrewBlack">
+      <img alt="0xAndrewBlack | Twitter" width="32px" src="./assets/resources/icons/socials/twitter.svg" draggable="false" alt="Twitter" />
+    </a>
+    &nbsp;
+    <a href="https://twitch.tv/0xandrew/">
+      <img alt="0xAndrewBlack's Instagram" width="32px" src="./assets/resources/icons/socials/twitch.svg" draggable="false" alt="Instagram" />
+    </a>
+</p>
+
+<p align="center">
+  <a href="javascript:void(0);">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=0xAndrewBlack.0xAndrewBlack" draggable="false">
+  </a>
+</p>
+
+<img src="./assets/resources/Footer.svg"  draggable="false" alt="bottom">
