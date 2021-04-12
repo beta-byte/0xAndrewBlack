@@ -1,6 +1,6 @@
 <img src="./assets/resources/0xAndrewBlack_LOGO_HEADER.png" draggable="false" alt="banner" />
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Andrew, aka. 🍋 Lemon
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I am Andrew, aka. 🍋 Lemon
 
 My name is Andrew Black and I am a web developer, designer and also a producer from Szeged, Hungary. I do a lot of things, and some of them you may even find interesting.
 
@@ -18,16 +18,16 @@ My name is Andrew Black and I am a web developer, designer and also a producer f
   <img alt="JavaScript" src="./assets/resources/icons/langs/ES6.svg" draggable="false" alt="JS Icon" />
 </p>
 
-- I’m currently (and constantly) working on my personal projects, which are tools and websites.
-- I'm working on several React projects with my favourite website Netlify.
-- I also make logo design and every kind of designs, so if you need a good logo just hmu
-- In my hobby im making music and instrumentals.
+- I am currently (and constantly) working on my personal projects, which are tools and websites.
+- I am working on several React projects with my favourite website Netlify.
+- I also make logo design and every kind of designs, so if you need a good logo just hit me up.
+- In my hobby I am making music and instrumentals.
 
 ---
 
 ### ✉️ Send me a message!
 
-- I am open for collaborations (musicly as well), so if you find my work interesting feel free to send me a message! <br/> Here is where you can find me:
+- I am open for collaborations (musically as well), so if you find my work interesting feel free to send me a message! <br/> Here is where you can find me:
 
 <p align="left">
   <a href="javasript:void(0);">
